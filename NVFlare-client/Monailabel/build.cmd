@@ -1,0 +1,1 @@
+docker build -t monailabel/dev:v1.4 .

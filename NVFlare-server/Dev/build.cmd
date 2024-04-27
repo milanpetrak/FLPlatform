@@ -1,0 +1,1 @@
+docker build -t nvflare/dev:v1.0 .
